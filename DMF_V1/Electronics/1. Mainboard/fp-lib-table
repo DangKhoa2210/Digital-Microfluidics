@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SY8088")(type "KiCad")(uri "${KIPRJMOD}/Project_Library/Footprint_Library/SY8088.pretty")(options "")(descr ""))
+)
