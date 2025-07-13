@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -45,7 +45,6 @@
       "pads",
       "zones",
       "drc_warnings",
-      "drc_exclusions",
       "conflict_shadows",
       "shapes"
     ],
@@ -58,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Cartridge.kicad_prl",
+    "filename": "Mainboard_V2.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -87,16 +86,16 @@
       9
     ],
     "col_widths": [
-      108,
+      222,
+      207,
+      137,
+      92,
+      137,
+      137,
+      137,
       98,
-      61,
-      45,
-      61,
-      61,
-      61,
-      47,
-      61,
-      61
+      137,
+      137
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
